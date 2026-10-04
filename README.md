@@ -1,4 +1,4 @@
-<img src="banner.png" alt="banner" width="100%" />
+<img src="banner.png.jpeg" alt="banner" width="100%" />
 
 <h1 align="center">🏴‍☠️ Ram Bhosale</h1>
 
