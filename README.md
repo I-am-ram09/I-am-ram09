@@ -8,7 +8,7 @@
 
 <br/>
 
-<i>"Inherited Will, The Destiny of the Era, The Dreams of People."</i>
+<i>“My destination is unknown. My ambition isn’t.”</i>
 
 </div>
 
